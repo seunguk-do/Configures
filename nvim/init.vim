@@ -65,4 +65,4 @@ au BufReadPost *
 \ exe "norm g`\"" |
 \ endif
 
-source $HOME/.config/nvim/themes/onedark.vim
+colorscheme onedark
