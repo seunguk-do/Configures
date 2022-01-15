@@ -1,4 +1,4 @@
-call plug#begin(".vim/plugged")
+call plug#begin("~/.vim/plugged")
 
 Plug 'sheerun/vim-polyglot'
 Plug 'scrooloose/NERDTree'
