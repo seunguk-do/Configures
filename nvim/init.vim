@@ -1,6 +1,6 @@
 call plug#begin("~/.vim/plugged")
 
-Plug 'navarasu/onedark.nvim'        "theme
+Plug 'joshdick/onedark.vim'
 Plug 'nvim-lualine/lualine.nvim'    "lualine
 Plug 'kyazdani42/nvim-web-devicons' "icons for lualine
 Plug 'scrooloose/NERDTree'          "nerdtree
